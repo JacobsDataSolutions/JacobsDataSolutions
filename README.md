@@ -1,5 +1,7 @@
-# Jacobs Data Solutions
+# John Jacobs
+_Principal Engineer - Jacobs Data Solutions, LLC_
 
+I build production-grade, cloud-native business applications with Modern .NET, focusing on clean architecture, observability, and long-term maintainability.
 
 <!--img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /-->
 <img align="left" style="margin: 1rem" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -7,7 +9,23 @@
 <img align="left" style="margin: 1rem" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
-# Blog posts
+## What I specialize in
+* .NET Core and ASP.NET Core
+* C# / Object-oriented Programming
+* F# / Applied Functional Programming
+* Cloud Platforms (Azure)
+* Blazor and Modern Frontend Technologies
+* DevOps and CI/CD Automation
+* Database Development
+* Message Queues and Event-Driven Architecture
+* Test-Driven Development (TDD) and Unit Testing
+* Agile Methodologies
+* Mentorship and Leadership
+
+## Certifications
+<a href="https://learn.microsoft.com/en-us/users/jacobsdata/credentials/76874ecd5edb326b" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="128" height="128"></a>
+
+## Legacy Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Supercharge Your Software Engineering Laptop](https://blog.jacobsdata.com/2021/08/18/supercharge-your-software-engineering-laptop)
 - [Book Review - Learn WinUI 3.0](https://blog.jacobsdata.com/2021/04/24/book-review-learn-winui-30-by-alvin-ashcraft)
