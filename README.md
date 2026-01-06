@@ -3,11 +3,10 @@ _Principal Engineer - Jacobs Data Solutions, LLC_
 
 I build production-grade, cloud-native business applications with Modern .NET, focusing on clean architecture, observability, and long-term maintainability.
 
-<!--img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" /-->
 <img align="left" style="margin: 1rem" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" style="margin: 1rem" alt="F#" src="https://img.shields.io/badge/f%23-%23E98407.svg?style=for-the-badge&logo=f-sharp&logoColor=white" />
 <img align="left" style="margin: 1rem" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<br />
 
 ## What I specialize in
 * .NET Core and ASP.NET Core
@@ -22,8 +21,19 @@ I build production-grade, cloud-native business applications with Modern .NET, f
 * Agile Methodologies
 * Mentorship and Leadership
 
+## What I care about
+- Intentional design
+- Code clarity over cleverness
+- Explicit tradeoffs and documented decisions
+- Systems that age well
+- Continuous improvement
+
 ## Certifications
 <a href="https://learn.microsoft.com/en-us/users/jacobsdata/credentials/76874ecd5edb326b" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="128" height="128"></a>
+
+## Contact
+<a href="https://www.linkedin.com/in/jacobsjohn/"><img align="left" style="margin: 1rem" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<br />
 
 ## Legacy Blog posts
 <!-- BLOG-POST-LIST:START -->
