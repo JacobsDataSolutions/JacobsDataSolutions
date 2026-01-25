@@ -1,3 +1,5 @@
+[patterns-playground]: https://github.com/JacobsDataSolutions/patterns-playground
+
 # John Jacobs
 _Principal Engineer - Jacobs Data Solutions, LLC_
 
@@ -27,6 +29,9 @@ I build production-grade, cloud-native business applications with Modern .NET, f
 - Explicit tradeoffs and documented decisions
 - Systems that age well
 - Continuous improvement
+
+## What I'm working on
+Check out [Patterns Playground][patterns-playground] for some sample projects I'm building out that demonstrate some designs and patterns that you may find useful in your own practice.
 
 ## Certifications
 <a href="https://learn.microsoft.com/en-us/users/jacobsdata/credentials/76874ecd5edb326b" target="_blank"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="128" height="128"></a>
